@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1524342932 source:e:\cppblackjack\blackjack\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<string>
+	<streambuf>
+
